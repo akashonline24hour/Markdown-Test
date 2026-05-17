@@ -34,7 +34,6 @@ _This is a paragraph._
 
 _This is a paragraph_
 
-
 **This is a paragraph**
 
 **_This is a paragraph_**
@@ -99,11 +98,12 @@ _This is a paragraph_
 
 > Tables:
 
-| Name | Age | City        |
-| ---- | --- | ----------- |
-| John | 30  | New York    |
-| Jane | 25  | Los Angeles |
-| Bob  | 40  | Chicago     |
+| Name  | Age | City        |
+| ----- | --- | ----------- |
+| John  | 30  | New York    |
+| Jane  | 25  | Los Angeles |
+| Bob   | 40  | Chicago     |
+| Alice | 35  | Houston     |
 
 > Blockquote:
 
